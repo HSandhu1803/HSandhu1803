@@ -1,4 +1,4 @@
-## I’m Harkamal Sandhu, a 22-year-old international student from India, currently majoring in Computer Science. Here’s a little about me and my journey:
+### I’m Harkamal Sandhu, from India, currently majoring in Computer Science. Here’s a little about me and my journey:
 
 + 🔭 I’m currently working on enhancing my ePortfolio to demonstrate my skills in Software Design/Engineering, Algorithms and Data Structures, and Databases.
 + 🌱 I’m currently learning advanced problem-solving techniques and algorithm design to further my coding expertise.
@@ -6,7 +6,6 @@
 + 🤔 I’m looking for help with refining my skills in mobile architecture and programming.
 + 💬 Ask me about anything related to software testing, automation, and quality assurance, or how to approach complex problems with effective algorithms.
 + 📫 How to reach me? Mail at: harkamal.sandhu@snhu.edu
-+ 😄 Pronouns: He/Him
 + ⚡ Fun fact: I love playing tennis and basketball, and I’m a big fan of movies and music!
 
 #### “Don’t just play it. Learn to program it!” - Obama
