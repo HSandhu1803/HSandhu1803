@@ -8,7 +8,6 @@
 + 📫 How to reach me? Mail at: harkamal.sandhu@snhu.edu
 + ⚡ Fun fact: I love playing tennis and basketball, and I’m a big fan of movies and music!
 
-+ 🎥 My code review video: Watch it here: https://youtu.be/SuOvxwoVJQo?si=Y9nSh4-JIeFyQ5w2!
 
 ### “Don’t just play it. Learn to program it!” - Obama
 
